@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HE-KPACOTA
 - 👀 I’m interested in IT Products creation. 
-- 🌱 I’m currently learning node.js and mangodb
+- 🌱 I’m currently learning Scala 
 - 💞️ I’m looking to collaborate on creating new IT product for drone racing pilots, leagues, organisations and other interested in players. Welcome!
 - 📫 How to reach me np@quadro.team
 
